@@ -1,4 +1,4 @@
-describe('palidrome', function() {
+describe('palindrome', function() {
     describe('count(arr)', function() {
         it('phrases should contain 2 palidromes', function() {
             var phrases = ['JavaScript is fun', 'Evil olive', 'Never odd or even'];
